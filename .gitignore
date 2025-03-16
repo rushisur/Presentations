@@ -1,0 +1,31 @@
+# Environment variables and secrets
+.env
+*.env
+.env.*
+
+# Python virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated presentations
+*.pptx
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Local development files
+local_settings.py
+instance/
+
+# Logs
+*.log 
