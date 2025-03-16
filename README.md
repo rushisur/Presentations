@@ -15,8 +15,8 @@ An AI-powered presentation generator that creates professional PowerPoint presen
 1. Clone the repository:
 
     bash
-    git clone https://github.com/rushisur/ai-presentation-generator.git
-    cd ai-presentation-generator
+    git clone https://github.com/rushisur/Presentations.git
+    cd Presentations
 
 
 2. Install dependencies:
